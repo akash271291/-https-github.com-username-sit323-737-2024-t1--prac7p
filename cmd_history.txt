@@ -1,0 +1,50 @@
+docker run --name abc -p 3040:3040 271291akash/node-web-app:1.1.1
+kucbectl apply -f .\createpode.yml
+kubectl apply -f .\createpode.yml
+kubectl apply -f ./createPods.yaml
+kubectl get pods
+docker images
+kubectl apply -f ./createPods.yaml
+kubectl get pods
+docker build -t akash271291/node-web-app:1.1.1 .
+kucbectl apply -f .\createPode.yml
+kucbectl apply -f ./createPode.yml
+kubectl apply -f ./createPode.yml
+kubectl apply -f ./createPod.yml
+kubectl apply -f ./createPods.yaml
+kubectl get pods
+history
+echo $HISTFILE
+Get-history
+Get-History
+doskey /h
+doskey /h > cmd_history.txt
+docker images
+doskey /h > cmd_history.txt
+kubectl apply -f.\createReplicaSet.yaml
+kubectl get pods
+docker image ls
+kubectl apply -f.\createReplicaSet.yaml
+kubectl get pods
+kubectl delete pod mypod myreplicaset-89x6r myreplicaset-g4hpd
+kubectl get pods
+docker image ls
+kubectl apply -f.\createReplicaSet.yaml
+kubectl get pods
+kubectl inspect pod myreplicaset-27vqr
+kubectl logs myreplicaset-27vqr
+kubectl get pods
+kubectl apply -f.\createReplicaSet.yaml
+kubectl get pods
+kubectl get service
+docker image ls
+kubectl apply -f.\createReplicaSet.yaml
+kubectl get pods
+kubectl delete pod myreplicaset-27vqr myreplicaset-hb8pd myreplicaset-qpd4j
+kubectl get pods
+docker images
+kubectl delete -f createReplicaSet.yaml
+kubectl apply -f.\createReplicaSet.yaml
+kubectl get rs
+kubectl get pods
+doskey /h > cmd_history.txt
